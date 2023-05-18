@@ -124,7 +124,7 @@ import { getNamesbyPincode, getPincodeByName } from "indian-pincode-search";
 
 ## 🔗 Connect
 
-[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subham1901)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://subham1901.github.io/subham-portfolio/)
 
